@@ -11,13 +11,13 @@ import moment from 'moment-timezone'
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumber = '' //Ejemplo: 573218138672
+global.botNumber = '' //Ejemplo: 543218138672
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['59169081575', '❀ Propietario ❀', true],
-  ['59169214837', '❀ Propietario ❀', true],
+  ['18093250019', '❀ Propietario ❀', true],
+  ['5491126852241', '❀ Propietario ❀', true],
   ['59169214837'],
   ['595972157130'],
   ['5212441357601'],
@@ -34,7 +34,7 @@ global.owner = [
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['584120346669'] 
+global.suittag = ['18093250019'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -54,10 +54,10 @@ global.yukiJadibts = true
 global.packname = '❀ YotsubaBot-MD ❀'
 global.botname = '❀ YotsubaBot-MD ❀'
 global.wm = '❀YotsubaBot-Sticker❀'
-global.author = '𝙲𝚛𝚎𝚊𝚝𝚎 @Alba070503'
-global.dev = '© PoWeReD @Alba070503'
-global.textbot = '𝚢𝙾𝚝𝚂𝚞𝙱𝚊𝙱𝚘𝚃-𝙼𝙳• Powered @Alba070503'
-global.etiqueta = 'ღ @Alba070503 ღ'
+global.author = '𝙲𝚛𝚎𝚊𝚝𝚎 @eliann45'
+global.dev = '© PoWeReD @eliann45'
+global.textbot = '𝚢𝙾𝚝𝚂𝚞𝙱𝚊𝙱𝚘𝚃-𝙼𝙳• Powered @eliann45'
+global.etiqueta = 'ღ @eliann45 ღ'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -84,13 +84,13 @@ global.avatar = 'https://files.catbox.moe/zy9ezo.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/BqxPFOQFcOHFWDxXjk2BzQ'
+global.gp1 = 'https://chat.whatsapp.com/Ev9m2p9Hh6GHDQsf7Bv7DO'
 global.comunidad1 = 'https://chat.whatsapp.com/E5jwoN0vhhZGiBKh0B9bbX'
-global.channel = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04'
-global.channel2 = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04'
-global.md = 'https://github.com/Alba070503/YotsubaBot-MD'
-global.correo = 'Alba070503yt@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04';
+global.channel = 'https://whatsapp.com/channel/0029VbAB3HFK5cDIwvvYbD24'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb9jhbh0rGiGSX8Y543v'
+global.md = 'https://github.com/eliann45/Yotsuba'
+global.correo = 'eliansantana894@gmail.com'
+global.cn ='https://whatsapp.com/channel/0029Vb4ri6EDp2Q80h5AnY3p';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
