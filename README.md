@@ -2,10 +2,10 @@
 ## 
 
 <p align="center">
-<img src="https://github.com/Alba070503/Rei-AyanamiBot-MD/blob/main/Menu2.jpg" alt="Kumiko-MD" width="900"/>
+<img src="https://github.com/eliann45/Yotsuba/blob/main/Menu2.jpg" alt="Kumiko-MD" width="900"/>
 </p>
 
-<a href="https://github.com/Alba070503/Kumiko-MD-V2"><img title="Stars" src="https://img.shields.io/github/stars/Alba070503/Kumiko-MD-V2?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/eliann45/Yotsuba-V2"><img title="Stars" src="https://img.shields.io/github/stars/Alba070503/Kumiko-MD-V2?color=ff4500&style=flat-square" /></a>
 <a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Alba070503/Kumiko-MD-V2?color=ff4500&style=flat-square" /></a>
 <a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alba070503/Kumiko-MD-V2?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
@@ -111,7 +111,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 ## `AGRADECIMIENTOS & CREDITOS` 
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="Azamk"/></a>
+<a href="https://github.com/federico130"><img src="https://github.com/federico130.png" width="250" height="250" alt="fede"/></a>
 
 <a href="https://www.youtube.com/@Azami_19">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
@@ -121,7 +121,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 </a>
 
   ## `EDITOR & PROPIETARIO DEL BOT` 
-<a href="https://github.com/Alba070503"><img src="https://github.com/Alba070503.png" width="300" height="300" alt="Alba070503"/></a>
+<a href="https://github.com/eliann45"><img src="https://github.com/eliann45.png" width="300" height="300" alt="eliann45"/></a>
 
 `Kumiko-MD - By @Alba070503 `
 #### COLABORADORES 
