@@ -1,4 +1,4 @@
-## 🍁Rei Ayanami Bot-MD🍁 By Alba070503 ✨ 
+## 🍁Yotsub-Bot-MD🍁
 ## 
 
 <p align="center">
