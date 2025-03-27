@@ -2,7 +2,7 @@
 
 #!/data/data/com.termux/files/usr/bin/bash 
 # Interpretación determinada para la ejecución     
-COMANDOS = "pkg install git -y\npkg install nodejs -y\npkg install ffmpeg -y\npkg install imagemagick -y\npkg install -y yarn\ngit clone https://github.com/Alba070503/YotsubaBot-MD\ncd YotsubaBot-MD\nyarn install\nnpm install\nnpm start"
+COMANDOS = "pkg install git -y\npkg install nodejs -y\npkg install ffmpeg -y\npkg install imagemagick -y\npkg install -y yarn\ngit clone https://github.com/eliann45/Yotsuba\ncd Yotsuba\nyarn install\nnpm install\nnpm start"
 
 echo -e "\e[35m
 
@@ -134,11 +134,11 @@ echo -e "\e[35m
 ╚═╝░░╚═╝░░╚═╝░░  ╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝\n\e[0m"
 
 echo -e "\033[1;35m"
-git clone https://github.com/Alba070503/YotsubaBot-MD.git
+git clone https://github.com/eliann45/Yotsuba.git
 echo -e "\033[01;32m\033[01mLa clonación se ha descargado e instalado correctamente.\nThe clone has been downloaded and installed successfully.\n\033[0m"
 
 echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\nChanging to the repository directory!!\n\033[0m" 
-cd YotsubaBot-MD
+cd Yotsuba
 
 echo -e "\e[36m
 █░█ █▀█ █▀▄ ▄▀█ ▀█▀ █▀▀   █▄█ ▄▀█ █▀█ █▄░█
@@ -168,19 +168,19 @@ fi
 
 clear
 echo -e "\e[36m
-┏꧁𓊈𒆜🆈🅾🆃🆂🆄🅱🅰🅱🅾🆃-🅼🅳𒆜𓊉꧂
+┏꧁𓊈𒆜🆈🅾🆃🆂🆄🅱🅰-🅱🅾🆃𒆜𓊉꧂
 
 ✰ Creador:
-» Alba070503
+» eliann45 
 ✰ Youtube:
-» https://www.youtube.com/@alba07o503
+» https://www.youtube.com/@frases_isagi 
 ✰ GitHub:
-» https://github.com/Alba070503
+» https://github.com/eliann45
 ✰ Numero:
-» +59169082575
+» +5491126852241
 
 𝐆 𝐑 𝐀 𝐂 𝐈 𝐀 𝐒, 𝐏 𝐎 𝐑, 𝐏 𝐑 𝐄 𝐅 𝐄 𝐑 𝐈 𝐑 𝐍 𝐎 𝐒\n\e[0m"
 
 
-echo -e "\033[01;32m\033[01mIniciando YotsubaBot-MD 🌻🌸\nYotsuba Nakano Bot-MD\n\033[0m"
+echo -e "\033[01;32m\033[01mIniciando Yotsuba 🌻🌸\nYotsuba Nakano Bot-MD\n\033[0m"
 npm start
