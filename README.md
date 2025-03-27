@@ -1,4 +1,4 @@
-## 🍁Yotsub-Bot-MD🍁
+## 🍁Yotsuba-Bot-MD🍁
 ## 
 
 <p align="center">
@@ -6,8 +6,8 @@
 </p>
 
 <a href="https://github.com/eliann45/Yotsuba-V2"><img title="Stars" src="https://img.shields.io/github/stars/Alba070503/Kumiko-MD-V2?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Alba070503/Kumiko-MD-V2?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alba070503/Kumiko-MD-V2?label=watchers&color=ff4500&style=flat-square" /></a> <br>
+<a href="https://github.com/eliann45/Yotsuba/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Alba070503/Kumiko-MD-V2?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/eliann45/Yotsuba/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alba070503/Kumiko-MD-V2?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
 
 <a href="https://www.youtube.com/@AlbaO7O503">
@@ -27,9 +27,9 @@ En caso de duda, antes de instalar Kumiko-MD, pruebe el bot aquí
 ***
 
 ### `⚙️ AJUSTES ⚙️`
-- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/Alba070503/Kumiko-MD-V2/blob/main/config.js#L6)
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/Alba070503/Kumiko-MD-V2/fork)
-- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/Alba070503/Kumiko-MD-V2/blob/main/package.json#L42)
+- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/eliann45/Yotsuba-V2/blob/main/config.js#L6)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/eliann45/Yotsuba-V2/fork)
+- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/eliann45/Yotsuba-V2/blob/main/package.json#L42)
 ***
 
 #### INSTALACIÓN AUTOMÁTICA POR TERMUX
@@ -59,7 +59,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Alba070503/Kumiko-MD-V2 && cd Kumiko-MD-V2 && yarn install && npm install
+git clone https://github.com/eliann45/Yotsuba-V2 && cd Kumiko-MD-V2 && yarn install && npm install
 ```
 
 ```bash
@@ -77,7 +77,7 @@ npm start
 #### `☂️ ACTIVA EN HEROKU ☂️`
 para usuarios del heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alba070503/Kumiko-MD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eliann45/Yotsuba)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -123,9 +123,9 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   ## `EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/eliann45"><img src="https://github.com/eliann45.png" width="300" height="300" alt="eliann45"/></a>
 
-`Kumiko-MD - By @Alba070503 `
+`katashi-bot - By @federico13 `
 #### COLABORADORES 
-<a href="https://github.com/Alba070503/Kumiko-MD-V2/graphs/contributors">
+<a href="https://github.com/eliann45/Yotsuba/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=Alba070503/Kumiko-MD-V2"
 </a>
 
@@ -133,4 +133,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-`🍁Rei Ayanami Bot-MD🍁- By @Alba070503 `
+`🍁Yotsuba-bot🍁- By @federico130 `
