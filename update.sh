@@ -1,5 +1,5 @@
 # Código desarrollado por @gata_dios 
-# código desarrollado por #federico130
+# código desarrollado por @federico130
   # * Al bifurcar este repositorio, dejen los créditos a todos los creadores de cada código por favor. ♥
 #!/data/data/com.termux/files/usr/bin/bash 
 BOT_DIR="YotsubaBot-MD"  
