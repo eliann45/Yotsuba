@@ -5,12 +5,12 @@
 <img src="https://github.com/eliann45/Yotsuba/blob/main/Menu2.jpg" alt="Kumiko-MD" width="900"/>
 </p>
 
-<a href="https://github.com/eliann45/Yotsuba-V2"><img title="Stars" src="https://img.shields.io/github/stars/Alba070503/Kumiko-MD-V2?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/eliann45/Yotsuba/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Alba070503/Kumiko-MD-V2?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/eliann45/Yotsuba/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alba070503/Kumiko-MD-V2?label=watchers&color=ff4500&style=flat-square" /></a> <br>
+<a href="https://github.com/eliann45/Yotsuba"><img title="Stars" src="https://img.shields.io/github/stars/eliann45/Kumiko-MD?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/eliann45/Yotsuba/network/members"><img title="Forks" src="https://img.shields.io/github/forks/eliann45/Kumiko-MD?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/eliann45/Yotsuba/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/eliann45/Kumiko-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
 
-<a href="https://www.youtube.com/@AlbaO7O503">
+<a href="https://www.youtube.com/@frases_isagi ">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 <a href="https://instagram.com/Alba070503">
@@ -27,9 +27,9 @@ En caso de duda, antes de instalar Kumiko-MD, pruebe el bot aquí
 ***
 
 ### `⚙️ AJUSTES ⚙️`
-- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/eliann45/Yotsuba-V2/blob/main/config.js#L6)
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/eliann45/Yotsuba-V2/fork)
-- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/eliann45/Yotsuba-V2/blob/main/package.json#L42)
+- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/eliann45/Yotsuba/blob/main/config.js#L6)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/eliann45/Yotsuba/fork)
+- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/eliann45/Yotsuba/blob/main/package.json#L42)
 ***
 
 #### INSTALACIÓN AUTOMÁTICA POR TERMUX
@@ -40,7 +40,7 @@ En caso de duda, antes de instalar Kumiko-MD, pruebe el bot aquí
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Alba070503/Kumiko-MD-V2/master/curiosity.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/eliann45/Kumiko-MD/master/curiosity.sh | bash
 ```
 
 #### ACTIVAR EN TERMUX
@@ -59,7 +59,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/eliann45/Yotsuba-V2 && cd Kumiko-MD-V2 && yarn install && npm install
+git clone https://github.com/eliann45/Yotsuba && cd Kumiko-MD && yarn install && npm install
 ```
 
 ```bash
@@ -113,7 +113,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `AGRADECIMIENTOS & CREDITOS` 
 <a href="https://github.com/federico130"><img src="https://github.com/federico130.png" width="250" height="250" alt="fede"/></a>
 
-<a href="https://www.youtube.com/@Azami_19">
+<a href="https://www.youtube.com/@frases_isagi">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 <a href="https://instagram.com/azami.19">
@@ -126,7 +126,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 `katashi-bot - By @federico13 `
 #### COLABORADORES 
 <a href="https://github.com/eliann45/Yotsuba/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Alba070503/Kumiko-MD-V2"
+<img src="https://contrib.rocks/image?repo=eliann45/Kumiko-MD"
 </a>
 
 <!-- markdownlint-restore -->
