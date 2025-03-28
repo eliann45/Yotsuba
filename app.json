@@ -1,10 +1,10 @@
 {
-"name": "Rei Ayanami-Bot - MD",
-"website": "https://github.com/Alba070503",
+"name": "Rei Yotsuba-Bot - MD",
+"website": "https://github.com/eliann45",
 "description": "El Mejor Bot De WhatsApp",
-"repository": "https://github.com/Alba070503/Rei-AyanamiBot-MD",
+"repository": "https://github.com/eliann45/Yotsuba",
 "logo": "https://telegra.ph/file/bfe4ded5360b6402ca6a2.jpg",
-"success_url": "https://github.com/Alba070503/Rei-AyanamiBot-MD",
+"success_url": "https://github.com/eliann45/Yotsuba",
 "keywords": [
 "nodejs", "heroku", "bot", "spanish", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
 "termux", "superbot", "multi-device", "md", "official", "javascript", "Rei"],
