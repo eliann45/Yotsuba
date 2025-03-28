@@ -5,7 +5,7 @@ sudo dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-rel
 sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
 sudo dnf clean all -y
 
-RUN git clone https://github.com/Alba070503/Rei-AyanamiBot-MD
+RUN git clone https://github.com/eliann45/Yotsuba 
 
 WORKDIR /root/Rei-AyanamiBot-MD
 
