@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/Alba070503/YotsubaBot-MD",
+"homepage": "https://github.com/eliann45/Yotsuba",
 "author": {
-"name": "Alba070503"
+"name": "eliann45"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/YotsubaBot/YotsubaBot-MD.git"
+"url": "git+https://github.com/eliann45/Yotsuba.git"
 },
 "bugs": {
-"url": "https://github.com/Alba070503/YotsubaBot-MD/issues"
+"url": "https://github.com/eliann45/Yotsuba/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
